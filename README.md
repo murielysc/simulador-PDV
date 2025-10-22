@@ -4,7 +4,7 @@ Projeto de exemplo de sistema de vendas PDV desenvolvido na unidade curricular L
 
 ## Screenshots 
 
-![Tela Dashboard](https://github.com/murielysc/simulador-PDV/blob/master/telas/Dashboard.png "Tela Dashboard")
+![Tela Dashboard](https://github.com/murielysc/simulador-PDV/blob/master/telas/Dashboard.png "Tela de Dashboard")
 ![Tela PDV](https://github.com/murielysc/simulador-PDV/blob/master/telas/PDV.png "Tela PDV")
 
 
